@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Personal Information",
+    "date_of_birth": "date",
+    "additional_information": "text"
+  },
+  {
+    "name": "Contact Details",
+    "phone_number": "phone",
+    "email_address": "email"
+  },
+  {
+    "name": "Employee Information",
+    "date_of_employment": "date",
+    "phone_number": "phone",
+    "email_address": "email",
+    "position": "text"
+  }
+]
